@@ -36,11 +36,11 @@ Números por Extenso v.3.1
 - v.2    29.05.2013
 - v.1    11.04.2012
 
-- created by: João Reis
+created by: João Reis
 - joaoreis.pt
 
 1 - Numbers in words
-- OPTIONS 
+OPTIONS 
 - short scale    BR US
 - long scale     PT UK
 
@@ -58,7 +58,7 @@ one thousand, five hundred and seventy five and twenty
 
 
 2 - Money in words
-- OPTIONS 
+OPTIONS 
 - short scale    BR US
 - long scale     PT UK
 - coin           EUR USD
