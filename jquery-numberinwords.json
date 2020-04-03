@@ -1,0 +1,33 @@
+{
+    "name": "jquery-numbersinwords",
+    "title": "Numbers in Words - jquery",
+    "description": "Converte numbers in words. Write numbers in full.",
+    "keywords": [
+        "numbers","words","converter","write"
+    ],
+    "version": "3.1",
+    "author": {
+        "name": "João Reis",
+        "url": "https://joaoreis.pt"
+    },
+    "maintainers": [
+        {
+            "name": "João Reis",
+            "email": "web@joaoreis.pt",
+            "url": "https://joaoreis.pt"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/joaoreisweb/jquery-numbersinwords/blob/master/LICENSE"
+        }
+    ],
+    "bugs": "https://github.com/joaoreisweb/jquery-numbersinwords/issues",
+    "homepage": "https://github.com/joaoreisweb/jquery-numbersinwords",
+    "docs": "https://github.com/joaoreisweb/jquery-numbersinwords",
+    "download": "http://code.jquery.com/#color",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
