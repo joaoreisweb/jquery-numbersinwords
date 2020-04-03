@@ -48,6 +48,9 @@ long scale     PT UK
 @string scale - default long scale PT
 
 `$('#id').numbersinwords('1523,45','PT');`
+mil, quinhentos e setenta e cinco vírgula vinte
+`$('#id').numbersinwords('1523,45','UK');`
+one thousand, five hundred and seventy five and twenty
 
 
 
@@ -62,3 +65,7 @@ coin           EUR USD
 @string coin  - default EUR
 
 `$('#id').moneyinwords('1523,45','PT','EUR');`
+mil, quinhentos e setenta e cinco euros e vinte cêntimos
+
+`$('#id').moneyinwords('1523,45','US','USD');`
+one thousand, five hundred and seventy five dollars and twenty cents
