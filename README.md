@@ -47,9 +47,13 @@ long scale     PT UK
 @string number to convert
 @string scale - default long scale PT
 
-`$('#id').numbersinwords('1523,45','PT');`
+```javascript
+$('#id').numbersinwords('1523,45','PT');
+```
 mil, quinhentos e setenta e cinco vírgula vinte
-`$('#id').numbersinwords('1523,45','UK');`
+```javascript
+$('#id').numbersinwords('1523,45','UK');
+```
 one thousand, five hundred and seventy five and twenty
 
 
