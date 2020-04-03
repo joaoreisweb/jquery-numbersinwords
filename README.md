@@ -49,11 +49,11 @@ OPTIONS
 @string scale - default long scale PT\n
 
 ```javascript
-$('#id').numbersinwords('1523,45','PT');
+$('#id').numbersinwords('1575,20','PT');
 ```
 mil, quinhentos e setenta e cinco vírgula vinte
 ```javascript
-$('#id').numbersinwords('1523,45','UK');
+$('#id').numbersinwords('1575,20','UK');
 ```
 one thousand, five hundred and seventy five and twenty
 
@@ -69,11 +69,11 @@ OPTIONS
 @string coin  - default EUR
 
 ```javascript
-$('#id').moneyinwords('1523,45','PT','EUR');
+$('#id').moneyinwords('1575,20','PT','EUR');
 ```
 mil, quinhentos e setenta e cinco euros e vinte cêntimos
 
 ```javascript
-$('#id').moneyinwords('1523,45','US','USD');
+$('#id').moneyinwords('1575,20','US','USD');
 ```
 one thousand, five hundred and seventy five dollars and twenty cents
