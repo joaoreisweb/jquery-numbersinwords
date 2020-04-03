@@ -53,7 +53,6 @@ mil, quinhentos e setenta e cinco vírgula vinte
 one thousand, five hundred and seventy five and twenty
 
 
-
 2 - Money in words
 OPTIONS 
 short scale    BR US
