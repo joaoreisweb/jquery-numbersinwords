@@ -1,5 +1,5 @@
 # jquery-numbersinwords
-Number to words converter
+Number to words converter 
 
 # Write Numbers in Words
 Script to write numbers in full
