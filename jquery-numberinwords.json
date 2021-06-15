@@ -3,9 +3,9 @@
     "title": "Numbers in Words - jquery",
     "description": "Converte numbers in words. Write numbers in full. git",
     "keywords": [
-        "numbers","words","converter","write"
+        "numbers","words","converter","write","long-scale","short-scale","numbers2words","numbers-to-words","numbers-to-text"
     ],
-    "version": "3.1",
+    "version": "3.2",
     "author": {
         "name": "João Reis",
         "url": "https://joaoreis.pt"
