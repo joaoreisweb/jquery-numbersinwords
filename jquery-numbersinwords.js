@@ -340,8 +340,9 @@
         }
         //acrescentar moeda + centavos na variavel
         resultadoExtenso += nomeMoeda + centavosExtenso;
-
-        return this.html(resultadoExtenso);
+        var resultToDisplay = resultadoExtenso;
+        resultadoExtenso=''; 
+        return this.html(resultToDisplay);
 
     };
 
