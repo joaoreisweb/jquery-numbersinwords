@@ -47,7 +47,7 @@ OPTIONS
  - long scale     PT UK
 
 @string number to convert
-@string scale - default long scale PT\n
+@string scale - default long scale PT
 
 ```javascript
 $('#id').numbersinwords('1575,20','PT');
