@@ -42,8 +42,8 @@ created by: João Reis
 1. Numbers in words
 
 OPTIONS 
- - short scale    BR US\n
- - long scale     PT UK\n
+ - short scale    BR US
+ - long scale     PT UK
 
 @string number to convert
 @string scale - default long scale PT\n
