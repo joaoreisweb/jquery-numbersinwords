@@ -29,8 +29,9 @@ Pequeno script para escrever números por extenso
 
 
 NUMBERS IN WORDS
-Números por Extenso v.3.1
+Números por Extenso v.3.2
 +
+- v.3.2  15.06.2021 jquery version
 - v.3.1  02.04.2020 jquery version
 - v.3    02.04.2020
 - v.2    29.05.2013
