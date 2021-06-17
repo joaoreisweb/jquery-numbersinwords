@@ -46,7 +46,12 @@ OPTIONS
  - short scale    BR US
  - long scale     PT UK
 
-@string number to convert
+<small><em>For most of the 19th and 20th centuries, the United Kingdom uniformly used the long scale, while the United States of America used the short scale, so that usage of the two systems was often referred to as “British” and “American” respectively. In 1974 the government of the UK abandoned the long scale, so that the UK now applies the short scale interpretation exclusively in mass media  and official usage.</em></small>
+<br/><br/>
+  
+  
+  
+@string number to convert<br/>
 @string scale - default long scale PT
 
 ```javascript
@@ -65,9 +70,9 @@ OPTIONS
 - long scale     PT UK
 - coin           EUR USD
 
-@string number to convert
-@string scale - default long scale PT
-@string coin  - default EUR
+@string number to convert<br/>
+@string scale - default long scale PT<br/>
+@string coin  - default EUR<br/>
 
 ```javascript
 $('#id').moneyinwords('1575,20','PT','EUR');
