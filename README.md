@@ -46,9 +46,9 @@ OPTIONS
  - short scale    BR US
  - long scale     PT UK
 
-><small><em>Durante a maior parte dos séculos 19 e 20, o Reino Unido a escala longa, enquanto os Estados Unidos da América usaram a escala curta, de modo que o uso dos dois sistemas foi frequentemente referido como "britânico" e "americano", respectivamente. Em 1974, o governo do Reino Unido abandonou a escala longa, de forma que agora o Reino Unido aplica a interpretação da escala curta exclusivamente na mídia de massa e no uso oficial.</em></small>
-
 ><small><em>For most of the 19th and 20th centuries, the United Kingdom uniformly used the long scale, while the United States of America used the short scale, so that usage of the two systems was often referred to as “British” and “American” respectively. In 1974 the government of the UK abandoned the long scale, so that the UK now applies the short scale interpretation exclusively in mass media  and official usage.</em></small>
+
+><small><em>Durante a maior parte dos séculos 19 e 20, o Reino Unido a escala longa, enquanto os Estados Unidos da América usaram a escala curta, de modo que o uso dos dois sistemas foi frequentemente referido como "britânico" e "americano", respectivamente. Em 1974, o governo do Reino Unido abandonou a escala longa, de forma que agora o Reino Unido aplica a interpretação da escala curta exclusivamente na mídia de massa e no uso oficial.</em></small>
 
 <br/>
   
